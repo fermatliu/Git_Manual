@@ -1,3 +1,7 @@
+https://github.com/progit/progit/tree/master/zh
+#A Chinese version progit
+
+
 git config --list
 
 
