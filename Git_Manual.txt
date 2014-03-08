@@ -11,3 +11,40 @@ git remote add origin https://github.com/
 git push origin master
 # Sends your commits in the "master" branch to GitHub
 
+
+
+#git svn
+git svn init URL Target
+git svn fetch -r xxx:HEAD
+
+#Format: Notepad++,Astyle
+
+Trim Trailing Space
+Tab to 4 Space
+Windows/Unix Format EOL(Same before or same to complier)
+
+
+
+git cat-file
+
+git update-index
+
+git write-tree
+
+git read-tree
+
+git commit-tree
+
+git update-ref
+
+git symbolic-ref
+
+git verify-pack
+
+git reglog
+
+git rev-list
+
+git fulter-branch
+
+git count-objects
